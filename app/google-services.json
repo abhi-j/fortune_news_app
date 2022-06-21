@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129509421543",
+    "project_id": "fortune-news-app",
+    "storage_bucket": "fortune-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129509421543:android:3fee7e5b23da0190428d42",
+        "android_client_info": {
+          "package_name": "com.example.fortunenewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129509421543-inp8nobf0gh0kibcnski90j2lues8qra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuqOIewcaAGvnoESS4MS3WniZLEqsRBpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129509421543-inp8nobf0gh0kibcnski90j2lues8qra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
